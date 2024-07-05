@@ -1,4 +1,4 @@
-# Arcade_thingsiplay - A-Z Uncommon Arcade Games
+# Arcade_thingsiplay - FBNeo - A-Z Uncommon Arcade Games
 
 This is a [RetroArch Community
 Playlist](https://github.com/thingsiplay/retroarch-community-playlists). You must

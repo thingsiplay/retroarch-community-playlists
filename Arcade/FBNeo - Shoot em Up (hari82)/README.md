@@ -1,4 +1,4 @@
-# Arcade_hari82 - STGs
+# Arcade_hari82 - FBNeo - Shoot em Up
 
 This is a [RetroArch Community
 Playlist](https://github.com/thingsiplay/retroarch-community-playlists). You must

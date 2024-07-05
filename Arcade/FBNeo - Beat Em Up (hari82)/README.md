@@ -1,4 +1,4 @@
-# Arcade_hari82 - Beat Em Up
+# Arcade_hari82 - FBNeo - Beat Em Up
 
 This is a [RetroArch Community
 Playlist](https://github.com/thingsiplay/retroarch-community-playlists). You must

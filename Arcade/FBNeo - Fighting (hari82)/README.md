@@ -1,4 +1,4 @@
-# Arcade_hari82 - Fighting
+# Arcade_hari82 - FBNeo - Fighting
 
 This is a [RetroArch Community
 Playlist](https://github.com/thingsiplay/retroarch-community-playlists). You must
