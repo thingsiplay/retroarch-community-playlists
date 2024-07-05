@@ -1,0 +1,308 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/fbneo/avspj.zip",
+      "label": "Alien vs Predator (940520 Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/armwar.zip",
+      "label": "Armored Warriors (941024 Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/asterix.zip",
+      "label": "Asterix (ver EAD)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/batcir.zip",
+      "label": "Battle Circuit (970319 Euro)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sailormnnj.zip",
+      "label": "Bishoujo Senshi Sailor Moon (Version 95/03/22, Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/bmaster.zip",
+      "label": "Blade Master (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dino.zip",
+      "label": "Cadillacs and Dinosaurs (World 921209)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/captavenu.zip",
+      "label": "Captain America and The Avengers (US Rev 1.9)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/captcomm.zip",
+      "label": "Captain Commando (World 911202)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ddragon.zip",
+      "label": "Double Dragon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ddragon2.zip",
+      "label": "Double Dragon II: The Revenge (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ddsom.zip",
+      "label": "Dungeons & Dragons - shadow over mystara (960619 Euro)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ddtod.zip",
+      "label": "Dungeons & Dragons - tower of doom (940412 Euro)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dynwar.zip",
+      "label": "Dynasty Wars (USA, B-Board 89624B-?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ffight.zip",
+      "label": "Final Fight (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/goldnaxe.zip",
+      "label": "Golden Axe (set 6, US) (8751 317-123A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ga2.zip",
+      "label": "Golden Axe: The Revenge of Death Adder (World, Rev B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/knights.zip",
+      "label": "Knights of the Round (World 911127)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kov.zip",
+      "label": "Knights of Valour - Sangoku Senki (V117, Hong Kong)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kov2.zip",
+      "label": "Knights of Valour 2 (V107, Hong Kong)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kov2p.zip",
+      "label": "Knights of Valour 2 Plus - Nine Dragons (VM205XX, China)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kungfum.zip",
+      "label": "Kung-Fu Master (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kuniokun.zip",
+      "label": "Nekketsu Kouha Kunio-kun (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/renegade.zip",
+      "label": "Renegade (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sengoku.zip",
+      "label": "Sengoku / Sengoku Denshou (NGM-017 ~ NGH-017)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sengoku2.zip",
+      "label": "Sengoku 2 / Sengoku Denshou 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sengoku3.zip",
+      "label": "Sengoku 3 / Sengoku Densho 2001 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tmnt2pj.zip",
+      "label": "Teenage Mutant Ninja Turtles (Japan 2 Players, version 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tmnt.zip",
+      "label": "Teenage Mutant Ninja Turtles (World 4 Players, version X)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tmnt22pu.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tmnt2.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/theglad.zip",
+      "label": "The Gladiator - Road Of The Sword / Shen Jian (V101, China)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54DC96BB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kod.zip",
+      "label": "The King of Dragons (World 910805)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/punisher.zip",
+      "label": "The Punisher (World 930422)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/vendetta.zip",
+      "label": "Vendetta (World, 4 Players, ver. T)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/vigilant.zip",
+      "label": "Vigilante (World, Rev E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/xmen2pe.zip",
+      "label": "X-Men (2 Players ver EAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}
