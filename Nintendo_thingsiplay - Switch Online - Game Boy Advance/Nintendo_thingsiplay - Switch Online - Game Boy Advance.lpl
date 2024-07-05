@@ -1,0 +1,148 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/mgba_libretro.so",
+  "default_core_name": "Nintendo - Game Boy Advance (mGBA)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/gba/F-Zero - Maximum Velocity (USA, Europe).gba",
+      "label": "F-Zero - Maximum Velocity (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD5E9798|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Fire Emblem (USA, Australia).gba",
+      "label": "Fire Emblem (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2A524221|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Golden Sun (USA, Europe).gba",
+      "label": "Golden Sun (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E1FB68E8|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Golden Sun - The Lost Age (USA, Europe).gba",
+      "label": "Golden Sun - The Lost Age (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "606A1C4D|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Kirby & The Amazing Mirror (USA).gba",
+      "label": "Kirby & The Amazing Mirror (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9F2A3048|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Kurukuru Kururin (Europe).gba",
+      "label": "Kurukuru Kururin (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C4DAB956|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Legend of Zelda, The - A Link to the Past & Four Swords (USA).gba",
+      "label": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E91CD13|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Legend of Zelda, The - The Minish Cap (USA).gba",
+      "label": "Legend of Zelda, The - The Minish Cap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABCEBBB1|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Mario & Luigi - Superstar Saga (USA).gba",
+      "label": "Mario & Luigi - Superstar Saga (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E718D850|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Mario Kart - Super Circuit (USA).gba",
+      "label": "Mario Kart - Super Circuit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED316E37|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Metroid - Zero Mission (USA).gba",
+      "label": "Metroid - Zero Mission (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C61A844|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Metroid Fusion (USA).gba",
+      "label": "Metroid Fusion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C75479C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Super Mario Advance (USA, Europe).gba",
+      "label": "Super Mario Advance (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E4C6D6A|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Super Mario Advance 2 - Super Mario World (USA, Australia).gba",
+      "label": "Super Mario Advance 2 - Super Mario World (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5206880A|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Super Mario Advance 3 - Yoshi's Island (USA).gba",
+      "label": "Super Mario Advance 3 - Yoshi's Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40A48276|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/Super Mario Advance 4 - Super Mario Bros. 3 (USA).gba",
+      "label": "Super Mario Advance 4 - Super Mario Bros. 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A44BA79F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "$roms/gba/WarioWare, Inc. - Mega Microgame$! (USA).gba",
+      "label": "WarioWare, Inc. - Mega Microgame$! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "785D8B8C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    }
+  ]
+}

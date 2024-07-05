@@ -1,0 +1,1212 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/fbneo/flagrall.zip",
+      "label": "'96 Flag Rally",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69F5767F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/actionhw.zip",
+      "label": "Action Hollywood",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34E2CED3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/aliensec.zip",
+      "label": "Alien Sector",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAE61EDB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/arcadian.zip",
+      "label": "Arcadia (NMK)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2FD2D25E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/avspirit.zip",
+      "label": "Avenging Spirit",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6707417D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/brapboys.zip",
+      "label": "B.Rap Boys (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A5F714B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/balcube.zip",
+      "label": "Bal Cube",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "78BA302B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/batlbubl.zip",
+      "label": "Battle Bubble (v2.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1AA3EE5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/borench.zip",
+      "label": "Borench (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF9FA310|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/calipso.zip",
+      "label": "Calipso",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFEB8037|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/candy.zip",
+      "label": "Candy Candy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2F263696|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/csclub.zip",
+      "label": "Capcom Sports Club (971017 Euro)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3CC73D20|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/chanbara.zip",
+      "label": "Chanbara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC44057E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/charlien.zip",
+      "label": "Charlie Ninja",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BF36B3C3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/combatsc.zip",
+      "label": "Combat School (joystick)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "737E2796|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/coolmini.zip",
+      "label": "Cool Minigame Collection",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "074F8C48|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/darkedge.zip",
+      "label": "Dark Edge (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90C5125F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/deadang.zip",
+      "label": "Dead Angle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0721F806|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/desertwr.zip",
+      "label": "Desert War / Wangan Sensou (ver 1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9B02A7A0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/devilw.zip",
+      "label": "Devil World",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7F5A4E14|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dondokod.zip",
+      "label": "Don Doko Don (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C37C70C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dreamwld.zip",
+      "label": "Dream World",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6E19BF46|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dynagear.zip",
+      "label": "Dyna Gear",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E72ED8E6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ecofghtr.zip",
+      "label": "Eco Fighters (931203 etc)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7967835|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/evilston.zip",
+      "label": "Evil Stone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "370756D0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/exvania.zip",
+      "label": "Exvania (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "05C6D348|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1en.zip",
+      "label": "F1 Exhaust Note (World, Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EBF4748|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/finehour.zip",
+      "label": "Finest Hour (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0574AB01|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/fort2b.zip",
+      "label": "Fortress 2 Blue Arcade (World) (ver 1.01 / pcb ver 3.05)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA67C081|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gloc.zip",
+      "label": "G-LOC Air Battle (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DDED924|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gaia.zip",
+      "label": "Gaia Crusaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C82111B6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ginganin.zip",
+      "label": "Ginga NinkyouDen (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0300B23D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/glass.zip",
+      "label": "Glass (Ver 1.1, Break Edition, Version 1994)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "18F2E6BB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gotcha.zip",
+      "label": "Got-cha Mini Game Festival",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1614A8F1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gseeker.zip",
+      "label": "Grid Seeker: Project Storm Hammer (Ver 1.3O)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AA9B6226|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gundhara.zip",
+      "label": "Gundhara",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "62692557|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/heatbrl.zip",
+      "label": "Heated Barrel (World version 3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFE840D7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hidctch3.zip",
+      "label": "Hidden Catch 3 (ver 1.00 / pcb ver 3.05)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B04CFD6C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/holeland.zip",
+      "label": "Hole Land (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35EB8725|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/holo.zip",
+      "label": "Holosseum (US, Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "31F1A422|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hopprobo.zip",
+      "label": "Hopper Robo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CB2E3E7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/itaten.zip",
+      "label": "Itazura Tenshi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "701D204A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/jailbrek.zip",
+      "label": "Jail Break",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CCB9EC7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/joinem.zip",
+      "label": "Joinem",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24675497|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/jumppope.zip",
+      "label": "Jumping Pop (set 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7013DA0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/junofrst.zip",
+      "label": "Juno First",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "19B89E9E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/horekid.zip",
+      "label": "Kid no Hore Hore Daisakusen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "29DA5190|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kingdmgp.zip",
+      "label": "Kingdom Grandprix (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2F7B99FB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kozure.zip",
+      "label": "Kozure Ookami (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D857A636|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kurikint.zip",
+      "label": "Kuri Kinton (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2625784F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kyros.zip",
+      "label": "Kyros",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "09D1A9AA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/landmakr.zip",
+      "label": "Land Maker (Ver 2.02O 1998/06/02)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7DD467E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/lastduel.zip",
+      "label": "Last Duel (US New Ver.)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59332F52|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/lastmisn.zip",
+      "label": "Last Mission (World revision 8)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFF4C392|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/leds2011.zip",
+      "label": "Led Storm Rally 2011 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9DEC6B12|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/legionna.zip",
+      "label": "Legionnaire (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B8C9330D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/lightbr.zip",
+      "label": "Light Bringer (Ver 2.2O 1994/04/08)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3DBF6A92|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/logicpr2.zip",
+      "label": "Logic Pro 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D4E53C40|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/losttomb.zip",
+      "label": "Lost Tomb (Easy)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8F12A675|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/loverboy.zip",
+      "label": "Lover Boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DB9C961F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/machbrkr.zip",
+      "label": "Mach Breakers (World, MB2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E39615AC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mplanets.zip",
+      "label": "Mad Planets",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C45B8A1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mcatadv.zip",
+      "label": "Magical Cat Adventure",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD4860E7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mgcrystl.zip",
+      "label": "Magical Crystals (World, 92/01/10)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E84DC661|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/maniach.zip",
+      "label": "Mania Challenge (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6485EE5C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kikcubic.zip",
+      "label": "Meikyu Jima (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6533A0DB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/metmqstr.zip",
+      "label": "Metamoqester (International)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DDE2BD9A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/minefld.zip",
+      "label": "Minefield",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "211382CF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mirninja.zip",
+      "label": "Mirai Ninja (Japan, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F389F43F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mmaulers.zip",
+      "label": "Monster Maulers (ver EAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E24F9A46|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mslider.zip",
+      "label": "Monster Slider (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5585CCDD|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/moremorp.zip",
+      "label": "More More Plus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84090157|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/motos.zip",
+      "label": "Motos",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFE7AD59|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/msgogo.zip",
+      "label": "Mouse Shooter GoGo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6FC1021C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mustache.zip",
+      "label": "Mustache Boy (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B2E52F2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mystston.zip",
+      "label": "Mysterious Stones - Dr. John's Adventure",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF52DAEE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/nebulray.zip",
+      "label": "Nebulas Ray (World, NR2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "44E76F5D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/nzeroteam.zip",
+      "label": "New Zero Team (V33 SYSTEM TYPE_B hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EDBA2F7B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ninjemak.zip",
+      "label": "Ninja Emaki (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6D62528|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/outzone.zip",
+      "label": "Out Zone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7E438698|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pass.zip",
+      "label": "Pass",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CFEFDB8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pengo.zip",
+      "label": "Pengo (set 1 rev C, encrypted)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0107DAF8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/perfrman.zip",
+      "label": "Performan (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45672013|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/phozon.zip",
+      "label": "Phozon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "71B8DA10|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ppmast93.zip",
+      "label": "Ping Pong Masters '93",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04D7409F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/popnpop.zip",
+      "label": "Pop'n Pop (Ver 2.07O 1998/02/09)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A8BB9331|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/powerbal.zip",
+      "label": "Power Balls",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F12AD31F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/psychic5.zip",
+      "label": "Psychic 5 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41885459|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/oscar.zip",
+      "label": "Psycho-Nics Oscar (World revision 0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "108CE66B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/puchicar.zip",
+      "label": "Puchi Carat (Ver 2.02O 1997/10/29)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "79089A3F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pulirula.zip",
+      "label": "PuLiRuLa (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8692E782|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pzlbreak.zip",
+      "label": "Puzzle Break (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3502F4B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/4in1boot.zip",
+      "label": "Puzzle King",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DC36E99|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/quantum.zip",
+      "label": "Quantum (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04AED25C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/quartet.zip",
+      "label": "Quartet (Rev A, 8751 317-unknown)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "003CDB7A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/rabbit.zip",
+      "label": "Rabbit (Asia 3/6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "957BEADB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/rackemup.zip",
+      "label": "Rack 'em Up (program code L)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50AC3F49|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/radm.zip",
+      "label": "Rad Mobile (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DC022E0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/rchase.zip",
+      "label": "Rail Chase (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D33791AA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/raimais.zip",
+      "label": "Raimais (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "92B29E05|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/ridingf.zip",
+      "label": "Riding Fight (Ver 1.0O)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CFF49E4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/riskchal.zip",
+      "label": "Risky Challenge",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6FE7EEB3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/svg.zip",
+      "label": "S.V.G. - Spectral vs Generation (V200, China)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4C5444B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sabotenb.zip",
+      "label": "Saboten Bombers (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6F93F799|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/searchar.zip",
+      "label": "SAR - Search And Rescue (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "62D55EBE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/scudhamm.zip",
+      "label": "Scud Hammer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "195932C9|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sdfight.zip",
+      "label": "SD Fighters (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5505567E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/selfeena.zip",
+      "label": "Sel Feena",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFA694CA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/senknow.zip",
+      "label": "Sen-Know (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C77A6B0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/shadowld.zip",
+      "label": "Shadowland (YD3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1ADFB250|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sharkatt.zip",
+      "label": "Shark Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2994B038|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/shocking.zip",
+      "label": "Shocking",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5492691|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/skullxbo.zip",
+      "label": "Skull & Crossbones (rev 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7B69E416|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/skykiddx.zip",
+      "label": "Sky Kid Deluxe (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86DFE887|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/slapshot.zip",
+      "label": "Slap Shot (Ver 3.0 O)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CBFFE6EF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sstriker.zip",
+      "label": "Sorcer Striker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02031B65|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/speedspn.zip",
+      "label": "Speed Spin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97DC67E5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/superchs.zip",
+      "label": "Super Chase - Criminal Termination (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CC8C3E4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sprglobp.zip",
+      "label": "Super Glob (Pac-Man hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88CA915A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/suratk.zip",
+      "label": "Surprise Attack (World ver. K)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF8E5303|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gogomile.zip",
+      "label": "Susume! Mile Smile / Go Go! Mile Smile (newer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A825DAE4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/swatpolc.zip",
+      "label": "SWAT Police",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3292B8F0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tangtang.zip",
+      "label": "Tang Tang (ver. 0526, 26/05/2000)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4509CFA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gametngk.zip",
+      "label": "The Game Paradise - Master of Shooting! / Game Tengoku - The Game Paradise (ver 1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "375DADB9|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/theglad.zip",
+      "label": "The Gladiator - Road Of The Sword / Shen Jian (V101, China)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54DC96BB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/outfxies.zip",
+      "label": "The Outfoxies (World, OU2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "70660515|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/srumbler.zip",
+      "label": "The Speed Rumbler (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "757812F8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/thundfox.zip",
+      "label": "Thunder Fox (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AC26CF51|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/theroes.zip",
+      "label": "Thunder Heroes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B776BD59|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/thoop.zip",
+      "label": "Thunder Hoop (ver. 1, checksum 02a09f7d)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D124662F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tkdensho.zip",
+      "label": "Toukidenshou - Angel Eyes (VER. 960614)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DE83CD11|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tricktrp.zip",
+      "label": "Trick Trap (World?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC6B8641|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tubep.zip",
+      "label": "Tube Panic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2FF21AA1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tumblep.zip",
+      "label": "Tumble Pop (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E5C4950E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/unclepoo.zip",
+      "label": "Uncle Poo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E0E12AF0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/valkyrie.zip",
+      "label": "Valkyrie no Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C02C226A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/vamphalf.zip",
+      "label": "Vamf x1/2 (Europe, version 1.1.0908)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7F242960|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/vandyke.zip",
+      "label": "Vandyke (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "78392560|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/victroad.zip",
+      "label": "Victory Road",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F387BE60|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/vindictr.zip",
+      "label": "Vindicators (rev 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA45B576|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/soniccar.zip",
+      "label": "Waku Waku Sonic Patrol Car",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "479E27EE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/welltris.zip",
+      "label": "Welltris - Alexey Pajitnov's (World?, 2 players)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "286D7EA0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wildfang.zip",
+      "label": "Wild Fang / Tecmo Knight",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1BBD53DF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/moomesa.zip",
+      "label": "Wild West C.O.W.-Boys of Moo Mesa (ver EAB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2953F571|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wilytowr.zip",
+      "label": "Wily Tower",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E7AD435F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wschamp.zip",
+      "label": "Wing Shooting Championship V2.00",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B85463A4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wizdfire.zip",
+      "label": "Wizard Fire (Over Sea v2.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "73E9984B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/xsleena.zip",
+      "label": "Xain'd Sleena (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7325A0A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/zerotm2k.zip",
+      "label": "Zero Team 2000",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B54D2974|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/zombraid.zip",
+      "label": "Zombie Raid (9/28/95, US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D2C94E5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}

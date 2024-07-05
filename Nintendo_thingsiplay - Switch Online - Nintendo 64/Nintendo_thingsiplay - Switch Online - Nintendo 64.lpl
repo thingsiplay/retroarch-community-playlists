@@ -1,0 +1,284 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/mupen64plus_next_libretro.so",
+  "default_core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/n64/1080 Snowboarding (Japan, USA) (En,Ja).z64",
+      "label": "1080 Snowboarding (Japan, USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "08FE81C7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Banjo-Kazooie (USA).z64",
+      "label": "Banjo-Kazooie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD429961|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Blast Corps (USA).z64",
+      "label": "Blast Corps (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "767A95E7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Dr. Mario 64 (USA).z64",
+      "label": "Dr. Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4701927|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Excitebike 64 (USA).z64",
+      "label": "Excitebike 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC459192|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Extreme-G (USA).z64",
+      "label": "Extreme-G (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "04CB74EC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/F-Zero X (USA).z64",
+      "label": "F-Zero X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B561FBA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/GoldenEye 007 (USA).z64",
+      "label": "GoldenEye 007 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6330846|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Harvest Moon 64 (USA).z64",
+      "label": "Harvest Moon 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DECDC0AD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Iggy's Reckin' Balls (USA).z64",
+      "label": "Iggy's Reckin' Balls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A6FBD5D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Jet Force Gemini (USA).z64",
+      "label": "Jet Force Gemini (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6753D5A3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Kirby 64 - The Crystal Shards (USA).z64",
+      "label": "Kirby 64 - The Crystal Shards (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20A1C120|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Legend of Zelda, The - Majora's Mask (USA).z64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B428D8A7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Legend of Zelda, The - Ocarina of Time (USA).z64",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD16C529|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Mario Golf (USA).z64",
+      "label": "Mario Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2FC4C216|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Mario Kart 64 (USA).z64",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "434389C1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Mario Party (USA).z64",
+      "label": "Mario Party (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D60ABE5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Mario Party 2 (USA).z64",
+      "label": "Mario Party 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E58A1955|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Mario Party 3 (USA).z64",
+      "label": "Mario Party 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B7445DDC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Mario Tennis (USA).z64",
+      "label": "Mario Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E9560F6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Paper Mario (USA).z64",
+      "label": "Paper Mario (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A7F5CD7E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Perfect Dark (USA).z64",
+      "label": "Perfect Dark (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "68446AD4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Pilotwings 64 (USA).z64",
+      "label": "Pilotwings 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "728807E7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Pokemon Puzzle League (USA).z64",
+      "label": "Pokemon Puzzle League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B9C598F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Pokemon Snap (USA).z64",
+      "label": "Pokemon Snap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86A69756|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Pokemon Stadium (USA).z64",
+      "label": "Pokemon Stadium (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72F66F05|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Pokemon Stadium 2 (USA).z64",
+      "label": "Pokemon Stadium 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9998E09|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Star Fox 64 (USA).z64",
+      "label": "Star Fox 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1FCAA9C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Super Mario 64 (USA).z64",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3CE60709|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Tsumi to Batsu - Hoshi no Keishousha (Japan).z64",
+      "label": "Tsumi to Batsu - Hoshi no Keishousha (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA2E5E49|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Turok - Dinosaur Hunter (USA).z64",
+      "label": "Turok - Dinosaur Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26C4F597|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Wave Race 64 - Kawasaki Jet Ski (USA).z64",
+      "label": "Wave Race 64 - Kawasaki Jet Ski (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74A7B725|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/WinBack - Covert Operations (USA).z64",
+      "label": "WinBack - Covert Operations (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64C817C5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "$roms/n64/Yoshi's Story (USA) (En,Ja).z64",
+      "label": "Yoshi's Story (USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A1453E0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

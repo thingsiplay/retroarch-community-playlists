@@ -1,0 +1,244 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/sameboy_libretro.so",
+  "default_core_name": "Nintendo - Game Boy / Color (SameBoy)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/gb/Alleyway (World).gb",
+      "label": "Alleyway (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CC01586|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).gbc",
+      "label": "Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C145C036|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gb/Baseball (World).gb",
+      "label": "Baseball (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EEA2526|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2F91E17C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gb/BurgerTime Deluxe (World).gb",
+      "label": "BurgerTime Deluxe (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88219A49|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Castlevania Legends (USA, Europe) (SGB Enhanced).gb",
+      "label": "Castlevania Legends (USA, Europe) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD9C17FB|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Dr. Mario (World).gb",
+      "label": "Dr. Mario (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10C98DD1|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AC625DA|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gb/Gargoyle's Quest (USA, Europe).gb",
+      "label": "Gargoyle's Quest (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0030E61F|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Kirby - Tilt 'n' Tumble (USA).gbc",
+      "label": "Kirby - Tilt 'n' Tumble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E541ACF1|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gb/Kirby's Dream Land (USA, Europe).gb",
+      "label": "Kirby's Dream Land (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40F25740|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).gb",
+      "label": "Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8DC07C35|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97822948|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gbc/Legend of Zelda, The - Oracle of Ages (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3800A387|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gbc/Legend of Zelda, The - Oracle of Seasons (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7E9F5D7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gbc/Mario Golf (USA).gbc",
+      "label": "Mario Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "905AD0CB|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gbc/Mario Tennis (USA).gbc",
+      "label": "Mario Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A781C63C|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gb/Mega Man - Dr. Wily's Revenge (USA).gb",
+      "label": "Mega Man - Dr. Wily's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47E70E08|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Mega Man II (USA).gb",
+      "label": "Mega Man II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E496F686|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Mega Man III (USA).gb",
+      "label": "Mega Man III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5175D761|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Mega Man IV (USA).gb",
+      "label": "Mega Man IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABCEA00D|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Mega Man V (USA) (SGB Enhanced).gb",
+      "label": "Mega Man V (USA) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72E6D21D|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Metroid II - Return of Samus (World).gb",
+      "label": "Metroid II - Return of Samus (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DEE05370|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81069D53|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gbc/Quest for Camelot (USA, Australia) (En,Fr,Es) (SGB Enhanced) (GB Compatible).gbc",
+      "label": "Quest for Camelot (USA, Australia) (En,Fr,Es) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D903DB7D|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "$roms/gb/Super Mario Land (World).gb",
+      "label": "Super Mario Land (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90776841|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Super Mario Land 2 - 6 Golden Coins (USA, Europe).gb",
+      "label": "Super Mario Land 2 - 6 Golden Coins (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5EC24E4|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gb/Tetris (World) (Rev 1).gb",
+      "label": "Tetris (World) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "46DF91AD|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "$roms/gbc/Wario Land 3 (World) (En,Ja).gbc",
+      "label": "Wario Land 3 (World) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "480D0259|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}

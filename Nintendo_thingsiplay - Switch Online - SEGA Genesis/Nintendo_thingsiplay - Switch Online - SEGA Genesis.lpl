@@ -1,0 +1,364 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/genesis_plus_gx_libretro.so",
+  "default_core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/megadrive/Alien Soldier (Japan).md",
+      "label": "Alien Soldier (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90FA1539|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Alien Storm (World).md",
+      "label": "Alien Storm (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5AC8DE5|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Alisia Dragoon (USA).md",
+      "label": "Alisia Dragoon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D28D5C40|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Altered Beast (USA, Europe).md",
+      "label": "Altered Beast (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "154D59BB|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Beyond Oasis (USA).md",
+      "label": "Beyond Oasis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C4728225|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Castlevania - Bloodlines (USA).md",
+      "label": "Castlevania - Bloodlines (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FB1EA6DF|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Columns (USA, Europe).md",
+      "label": "Columns (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D783C244|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Comix Zone (USA).md",
+      "label": "Comix Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17DA0354|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Contra - Hard Corps (USA, Korea) (En).md",
+      "label": "Contra - Hard Corps (USA, Korea) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C579F45E|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Crusader of Centy (USA).md",
+      "label": "Crusader of Centy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41858F6F|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Dr. Robotnik's Mean Bean Machine (USA).md",
+      "label": "Dr. Robotnik's Mean Bean Machine (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7CA517F|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Dynamite Headdy (USA, Europe).md",
+      "label": "Dynamite Headdy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3DFEEB77|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Earthworm Jim (USA).md",
+      "label": "Earthworm Jim (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DF3ACF59|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Ecco the Dolphin (USA, Europe, Korea) (En).md",
+      "label": "Ecco the Dolphin (USA, Europe, Korea) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45547390|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Flicky (USA, Europe).md",
+      "label": "Flicky (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4291C8AB|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Ghouls'n Ghosts (World) (Rev A).md",
+      "label": "Ghouls'n Ghosts (World) (Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4F2561D5|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Golden Axe (World).md",
+      "label": "Golden Axe (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8182B90|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Golden Axe II (World).md",
+      "label": "Golden Axe II (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "725E0A18|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Gunstar Heroes (USA).md",
+      "label": "Gunstar Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B813CF0D|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Kid Chameleon (USA, Europe).md",
+      "label": "Kid Chameleon (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE36E6CC|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Landstalker (USA).md",
+      "label": "Landstalker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FBBB5B97|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Light Crusader (USA).md",
+      "label": "Light Crusader (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BEB715DC|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Mega Man - The Wily Wars (USA) (Genesis Mini).md",
+      "label": "Mega Man - The Wily Wars (USA) (Genesis Mini)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0CD405DB|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/MUSHA - Metallic Uniframe Super Hybrid Armor (USA).md",
+      "label": "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "58A7F7B4|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Phantasy Star IV (USA).md",
+      "label": "Phantasy Star IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE236442|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Pulseman (Japan).md",
+      "label": "Pulseman (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "138A104E|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Revenge of Shinobi, The (USA, Europe).md",
+      "label": "Revenge of Shinobi, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "05F27994|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Ristar (USA, Europe).md",
+      "label": "Ristar (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6511AA61|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Shining Force (USA).md",
+      "label": "Shining Force (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E82ACDFC|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Shining Force II (USA).md",
+      "label": "Shining Force II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4815E075|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Shinobi III - Return of the Ninja Master (USA).md",
+      "label": "Shinobi III - Return of the Ninja Master (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5381506F|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Sonic Spinball (USA).md",
+      "label": "Sonic Spinball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "677206CB|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Sonic The Hedgehog 2 (World).md",
+      "label": "Sonic The Hedgehog 2 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24AB4C3A|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Space Harrier II (World).md",
+      "label": "Space Harrier II (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E5C9CBB0|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Street Fighter II' - Special Champion Edition (USA).md",
+      "label": "Street Fighter II' - Special Champion Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "13FE08A1|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Streets of Rage 2 (USA).md",
+      "label": "Streets of Rage 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E01FA526|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Strider (USA, Europe).md",
+      "label": "Strider (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9D099A4|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Super Fantasy Zone (Japan).md",
+      "label": "Super Fantasy Zone (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "767780D7|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Sword of Vermilion (USA, Europe).md",
+      "label": "Sword of Vermilion (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EA1BC9AB|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Target Earth (USA).md",
+      "label": "Target Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDDF62D3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Thunder Force II (USA, Europe).md",
+      "label": "Thunder Force II (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9B1561B3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/ToeJam & Earl (USA, Europe, Korea) (En).md",
+      "label": "ToeJam & Earl (USA, Europe, Korea) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1B36786|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Virtua Fighter 2 (USA, Europe).md",
+      "label": "Virtua Fighter 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "937380F3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "$roms/megadrive/Zero Wing (Japan).md",
+      "label": "Zero Wing (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7E203D2B|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    }
+  ]
+}
