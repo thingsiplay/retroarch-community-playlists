@@ -1,0 +1,516 @@
+{
+  "version": "1.5",
+  "default_core_path": "$cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "$roms/fbneo/gtmra.zip",
+      "label": "1000 Miglia: Great 1000 Miles Rally (94/06/13)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/abcop.zip",
+      "label": "A.B. Cop (World, FD1094 317-0169b)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/afighter.zip",
+      "label": "Action Fighter, FD1089A 317-0018",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "44CCFE9F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/amspdwy.zip",
+      "label": "American Speedway (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/bigrun.zip",
+      "label": "Big Run (11th Rallye version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1E11087|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/chasehq.zip",
+      "label": "Chase H.Q. (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "48B3D867|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/cischeat.zip",
+      "label": "Cisco Heat",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "048DDFB2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/contcirc.zip",
+      "label": "Continental Circus (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C24FBEA3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dirtfoxj.zip",
+      "label": "Dirt Fox (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "79AE2F91|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/dblaxle.zip",
+      "label": "Double Axle (US, Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/drifto94.zip",
+      "label": "Drift Out '94 - The Hard Order (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/enduror.zip",
+      "label": "Enduro Racer (Rev A, YM2151, FD1089B 317-0013A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12FF8224|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/esckids.zip",
+      "label": "Escape Kids (Asia, 4 Players)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1dream.zip",
+      "label": "F-1 Dream",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1gp.zip",
+      "label": "F-1 Grand Prix (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5BE7B7D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1gp2.zip",
+      "label": "F-1 Grand Prix Part II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A45E0052|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1gpstr2.zip",
+      "label": "F-1 Grand Prix Star II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51AFA282|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1en.zip",
+      "label": "F1 Exhaust Note (World, Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EBF4748|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1lap.zip",
+      "label": "F1 Super Lap (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FCDB937D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/finallap.zip",
+      "label": "Final Lap (Rev E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F462A7D5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/finalap2.zip",
+      "label": "Final Lap 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "282B5CFE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/finalap3.zip",
+      "label": "Final Lap 3 (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0397B6C2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/fourtrax.zip",
+      "label": "Four Trax (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00659DBF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/fullthrl.zip",
+      "label": "Full Throttle (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gpriderus.zip",
+      "label": "GP Rider (US, FD1094 317-0162)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/f1gpstar.zip",
+      "label": "Grand Prix Star (ver 4.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "480C74A3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gtmr2u.zip",
+      "label": "Great 1000 Miles Rally 2 USA (95/05/18)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/groundfx.zip",
+      "label": "Ground Effects / Super Ground Effects (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hangon.zip",
+      "label": "Hang-On (rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5F21A56|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hangonjr.zip",
+      "label": "Hang-On Jr. Rev.B",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12DCFB1C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hotchase.zip",
+      "label": "Hot Chase (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hotrod.zip",
+      "label": "Hot Rod (World, 3 Players, Turbo set 1, Floppy Based)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hydra.zip",
+      "label": "Hydra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "442C8581|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hcrash.zip",
+      "label": "Hyper Crash (version D)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/konamigt.zip",
+      "label": "Konami GT",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/rf2.zip",
+      "label": "Konami RF2 - Red Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/leds2011.zip",
+      "label": "Led Storm Rally 2011 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9DEC6B12|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/crshrace.zip",
+      "label": "Lethal Crash Race (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87123CD0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/kamenrid.zip",
+      "label": "Masked Riders Club Battle Race / Kamen Rider Club Battle Racer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BE8B3858|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/neodrift.zip",
+      "label": "Neo Drift Out - New Technology",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/outrun.zip",
+      "label": "Out Run (sitdown/upright, Rev B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/orunners.zip",
+      "label": "OutRunners (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CEDE2FAA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/overtop.zip",
+      "label": "Over Top",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pitnrun.zip",
+      "label": "Pit & Run - F-1 Race (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pdrift.zip",
+      "label": "Power Drift (World, Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A46E4089|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/powerdrv.zip",
+      "label": "Power Drive",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/pwheelsj.zip",
+      "label": "Power Wheels (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/racingb.zip",
+      "label": "Racing Beat (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/rachero.zip",
+      "label": "Racing Hero (FD1094 317-0144)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "945FFDF7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/radm.zip",
+      "label": "Rad Mobile (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/radr.zip",
+      "label": "Rad Rally (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5A21134|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/roughrac.zip",
+      "label": "Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "567810BD|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/slipstrm.zip",
+      "label": "Slip Stream (Brazil 950515)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/snowboar.zip",
+      "label": "Snow Board Championship (Version 2.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/scross.zip",
+      "label": "Stadium Cross (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B994D60|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/sformula.zip",
+      "label": "Super Formula (Japan, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/shangoneh.zip",
+      "label": "Super Hang-On (sitdown/upright, unprotected) (Enhanced Edition v2.0.2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/smgp.zip",
+      "label": "Super Monaco GP (World, Rev B, FD1094 317-0126a)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/suzuka8h.zip",
+      "label": "Suzuka 8 Hours (World, Rev C)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C09A3702|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/trally.zip",
+      "label": "Thrash Rally (ALM-003)(ALH-003)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wecleman.zip",
+      "label": "WEC Le Mans 24 (v2.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "428FE701|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wheelrun.zip",
+      "label": "Wheels Runner",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01CC5FFB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/wrallyat.zip",
+      "label": "World Rally (US, 930217)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}
