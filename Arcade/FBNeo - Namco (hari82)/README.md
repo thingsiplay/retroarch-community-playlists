@@ -10,4 +10,5 @@ your environment.
 
 ## Description
 
-Collection of all Arcade games by Namco for FinalBurn Neo core.
+All Namco Arcade games for FBNeo. Based on the listing at [Wikipedia: List of
+Namco games](https://en.wikipedia.org/wiki/List_of_Namco_games) as a reference.
