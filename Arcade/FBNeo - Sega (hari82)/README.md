@@ -11,4 +11,5 @@ your environment.
 ## Description
 
 All Sega Arcade games for FBNeo. Based on the listing at [Wikipedia: List of
-Sega arcade games](https://en.wikipedia.org/wiki/List_of_Sega_arcade_games) as a reference.
+Sega arcade games](https://en.wikipedia.org/wiki/List_of_Sega_arcade_games) as
+a reference, the Early video games and Sega System series sub categories only.
