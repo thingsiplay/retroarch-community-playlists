@@ -10,7 +10,7 @@ your environment.
 
 ## Description
 
-All Namco Arcade games for FBNeo. Based on the listing at [Wikipedia: List of
+All Taito Arcade games for FBNeo. Based on the listing at [Wikipedia: List of
 Taito games](https://en.wikipedia.org/wiki/List_of_Taito_games) as a reference,
 starting from Space Invaders. Some titles are left out, in example few Toaplan
 games.
