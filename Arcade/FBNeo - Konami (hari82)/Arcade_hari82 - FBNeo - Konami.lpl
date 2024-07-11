@@ -33,8 +33,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/aliens.zip",
+      "label": "Aliens (World set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/amidar.zip",
       "label": "Amidar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/asterix.zip",
+      "label": "Asterix (ver EAD)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -75,6 +91,14 @@
     {
       "path": "$roms/fbneo/bottom9.zip",
       "label": "Bottom of the Ninth (version T)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/bucky.zip",
+      "label": "Bucky O'Hare (ver EAB)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -137,6 +161,14 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/detatwin.zip",
+      "label": "Detana!! Twin Bee (Japan, version J)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/devstors.zip",
       "label": "Devastators (ver. Z)",
       "core_path": "DETECT",
@@ -147,6 +179,14 @@
     {
       "path": "$roms/fbneo/ddribble.zip",
       "label": "Double Dribble",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/esckidsj.zip",
+      "label": "Escape Kids (Japan, 2 Players)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -179,6 +219,22 @@
     {
       "path": "$roms/fbneo/frogger.zip",
       "label": "Frogger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gijoe.zip",
+      "label": "G.I. Joe (World, EAB, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/gaiapols.zip",
+      "label": "Gaiapolis (ver EAF)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -227,6 +283,14 @@
     {
       "path": "$roms/fbneo/gyruss.zip",
       "label": "Gyruss",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/hexion.zip",
+      "label": "Hexion (Japan ver JAB)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -329,8 +393,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/lethalen.zip",
+      "label": "Lethal Enforcers (ver UAE, 11/19/92 15:04)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/lifefrcej.zip",
       "label": "Lifeforce (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/lgtnfght.zip",
+      "label": "Lightning Fighters (World)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -353,8 +433,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/mtlchamp.zip",
+      "label": "Martial Champion (ver EAB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/megazone.zip",
       "label": "Mega Zone (program code L)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/metamrph.zip",
+      "label": "Metamorphic Force (ver EAA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -369,8 +465,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/mmaulers.zip",
+      "label": "Monster Maulers (ver EAA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/mrgoemon.zip",
       "label": "Mr. Goemon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/mystwarr.zip",
+      "label": "Mystic Warriors (ver EAA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -385,8 +497,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/parodius.zip",
+      "label": "Parodius Da!: Shinwa kara Owarai e (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/pooyan.zip",
       "label": "Pooyan",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/punkshot.zip",
+      "label": "Punk Shot (US 4 Players)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -427,6 +555,14 @@
     {
       "path": "$roms/fbneo/rockrage.zip",
       "label": "Rock'n Rage (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/rollerg.zip",
+      "label": "Rollergames (US)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -481,6 +617,14 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/ssriders.zip",
+      "label": "Sunset Riders (4 Players ver EAC)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/sbasketb.zip",
       "label": "Super Basketball (version I, encrypted)",
       "core_path": "DETECT",
@@ -505,8 +649,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/suratk.zip",
+      "label": "Surprise Attack (World ver. K)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/tmnt2pj.zip",
       "label": "Teenage Mutant Ninja Turtles (Japan 2 Players, version 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/tmnt2.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -545,8 +705,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/simpsons.zip",
+      "label": "The Simpsons (4 Players World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/thunderx.zip",
       "label": "Thunder Cross (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/thndrx2.zip",
+      "label": "Thunder Cross II (World)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -601,8 +777,24 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/vendetta.zip",
+      "label": "Vendetta (World, 4 Players, ver. T)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/hustler.zip",
       "label": "Video Hustler",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/viostorm.zip",
+      "label": "Violent Storm (ver EAC)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
@@ -617,8 +809,32 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
+      "path": "$roms/fbneo/moomesa.zip",
+      "label": "Wild West C.O.W.-Boys of Moo Mesa (ver EAB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
       "path": "$roms/fbneo/wizzquiz.zip",
       "label": "Wizz Quiz (Konami version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/xmen.zip",
+      "label": "X-Men (4 Players ver EBA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "$roms/fbneo/xexex.zip",
+      "label": "Xexex (ver EAA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",

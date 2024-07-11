@@ -1,4 +1,4 @@
-# Arcade_hari82 - FBNeo - Konami 80s
+# Arcade_hari82 - FBNeo - Konami
 
 This is a [RetroArch Community
 Playlist](https://github.com/thingsiplay/retroarch-community-playlists). You must
@@ -6,8 +6,8 @@ replace the paths and probably file extensions in the playlist to adapt it into
 your environment.
 
 - Authors: Hari-82
-- Edit Date: 2024-07-05
+- Edit Date: 2024-07-11
 
 ## Description
 
-Collection of Arcade games by Konami up to 1989 for FinalBurn Neo core.
+Collection of Arcade games by Konami for FinalBurn Neo core.
