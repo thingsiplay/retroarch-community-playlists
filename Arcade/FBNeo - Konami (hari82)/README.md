@@ -10,4 +10,7 @@ your environment.
 
 ## Description
 
-Collection of Arcade games by Konami for FinalBurn Neo core.
+Collection of Arcade games by Konami for FBNeo. Based on the listing at
+[Wikipedia: List of Konami
+games](https://en.wikipedia.org/wiki/List_of_Konami_games#Arcade) as a
+reference.
