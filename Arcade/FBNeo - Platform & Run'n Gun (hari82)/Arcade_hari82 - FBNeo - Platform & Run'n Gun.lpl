@@ -89,14 +89,6 @@
       "db_name": "FBNeo - Arcade Games.lpl"
     },
     {
-      "path": "$roms/fbneo/chelnovj.zip",
-      "label": "Chelnov - Atomic Runner (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "00000000|crc",
-      "db_name": "FBNeo - Arcade Games.lpl"
-    },
-    {
       "path": "$roms/fbneo/chelnov.zip",
       "label": "Chelnov - Atomic Runner (World)",
       "core_path": "DETECT",
